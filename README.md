@@ -3,8 +3,11 @@
 
 Base-R expressions to get some basic things done in less than 30 seconds. 
 
-Inspired by https://github.com/Chalarangelo/30-seconds-of-code 
-Related: Python - [30 seconds of Python code](https://github.com/kriadmin/30-seconds-of-python-code)
+#### Related:
+
+* [Javasrcript](https://github.com/Chalarangelo/30-seconds-of-code)
+* [Python](https://github.com/kriadmin/30-seconds-of-python-code)
+* [css](https://github.com/atomiks/30-seconds-of-css)
 
 **Table of contents**
 
