@@ -1,7 +1,10 @@
 
 ## 30 seconds of r-code
 
-Base-R expressions to get some basic things done in less than 30 seconds. Inspired by https://github.com/Chalarangelo/30-seconds-of-code 
+Base-R expressions to get some basic things done in less than 30 seconds. 
+
+Inspired by https://github.com/Chalarangelo/30-seconds-of-code 
+Related: Python - [30 seconds of Python code](https://github.com/kriadmin/30-seconds-of-python-code)
 
 **Table of contents**
 
