@@ -65,7 +65,7 @@ new_matrix
 set.seed(123)
 new_matrix <- matrix(rnorm(100), nrow = 10, ncol = 10)
 new_df <- data.frame(new_matrix)
-names(new_df) <- b1:10
+names(new_df) <- 1:10
 new_df
 ```
 
