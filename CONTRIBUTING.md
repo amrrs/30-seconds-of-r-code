@@ -17,7 +17,7 @@ _All contributions (feature or bug fix) should start with an issue first_.
 - If possible, add a failing test
 - Commit your fix/feature and tests (`git commit -am "fixes for issue #nnn"`)
 - Push to the branch (`git push -u origin issue-nnn`)
-- Open a [Pull request](https://github.com/Kvaibhav01/HackerEarth-Solutions/pulls)
+- Open a [Pull request](https://github.com/amrrs/30-seconds-of-r-code/pulls)
 
 
 [issue-tracker]: https://github.com/amrrs/30-seconds-of-r-code/issues
