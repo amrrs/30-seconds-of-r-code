@@ -29,6 +29,8 @@ Base-R expressions to get some basic things done in less than 30 seconds.
   * [Extracting Words starting with 's' in a string](#extracting-words-starting-with--s--in-a-string)
   * [String to Lower Case and to Upper Case](#string-to-lower-case-and-to-upper-case)
   * [String Find and Replace](#string-find-and-replace)
+  * [Number of Columns in dataframe](#number-of-columns-in-dataframe)
+  * [Number of Rows in dataframe](#number-of-rows-in-dataframe)
 
 
 ### Creating a 10\*10 matrix with random numbers
@@ -342,3 +344,22 @@ gsub('good','smart',sentence)
 
 'I smart and I know a smart person'
 
+
+### Number of Columns in dataframe
+
+
+```R
+ncol(iris)
+```
+
+'5'
+
+
+### Number of Rows in dataframe
+
+
+```R
+nrow(iris)
+```
+
+'150'
