@@ -352,6 +352,8 @@ gsub('good','smart',sentence)
 ncol(iris)
 ```
 
+'5'
+
 
 ### Number of Rows in dataframe
 
@@ -359,3 +361,5 @@ ncol(iris)
 ```R
 nrow(iris)
 ```
+
+'150'
